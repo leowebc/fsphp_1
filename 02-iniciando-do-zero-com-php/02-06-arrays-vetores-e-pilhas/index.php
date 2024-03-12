@@ -47,9 +47,9 @@ fullStackPHPClassSession("multidimensional array", __LINE__);
 $brian =["Brian", "Mic"];
 $angus = ["name" =>"Angus", "Intrument" => "Guitar" ];
 $instruments = [
-        $brian,
-        $angus
-    ];
+    $brian,
+    $angus
+];
 var_dump($instruments);
 
 var_dump([
