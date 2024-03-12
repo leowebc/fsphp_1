@@ -8,6 +8,9 @@ echo fullStackPHPClassName("02.05 - Operadores na prática");
  */
 fullStackPHPClassSession("atribuição", __LINE__);
 
+// Testanto git adicionando linha 
+// comentando 
+
 $operetorA = 5;
 $oprerators = [
     "a += 5" => ($operetorA += 5),
